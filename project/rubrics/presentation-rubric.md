@@ -1,6 +1,6 @@
 # STAT 486 Project Presentation Scoring Sheet
 
-Use this sheet to score the **20-point presentation** during the team's assigned class meeting. The [project brief](README.md) is the source for requirements; the [overall rubric](rubric.md) gives the four presentation categories used below. Score what the team communicates in the talk and questions. The repository and written report receive their own scores.
+Use this sheet to score the **20-point presentation** during the team's assigned class meeting. The [project brief](../README.md) is the source for requirements; the [overall rubric](rubric.md) gives the four presentation categories used below. Score what the team communicates in the talk and questions. The repository and written report receive their own scores.
 
 **Team:** ____________________  **Route:** A / B / C  **Date:** __________  **Presentation length:** ________
 

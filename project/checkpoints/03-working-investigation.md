@@ -37,6 +37,5 @@ Complete the prompts for your chosen route.
 
 ## Next question
 
-- What is the most useful comparison, diagnostic, or fix to complete before the November 19 Evidence and interpretation checkpoint?
 - If your plan changed since November 5, what evidence or feedback led to the change?
 - What is uncertain or blocked now, and how will you adjust the scope if needed?

@@ -1,6 +1,6 @@
 # STAT 486 Research Project Rubric
 
-The [project brief](README.md) is the source for requirements, dates, and submissions. The **100 project points** are divided among checkpoints (30), reproducible workflow (20), presentation (20), and written report (30). A thoughtful negative result can earn full credit. Model count, compute spent, and competition rank do not earn points by themselves.
+The [project brief](../README.md) is the source for requirements, dates, and submissions. The **100 project points** are divided among checkpoints (30), reproducible workflow (20), presentation (20), and written report (30). A thoughtful negative result can earn full credit. Model count, compute spent, and competition rank do not earn points by themselves.
 
 ## Checkpoints: 30 points
 
